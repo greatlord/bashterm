@@ -1,3 +1,7 @@
+/*  GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999 
+    Copyright By 2021 Magnus Olsen (email olsen.sweden@gmail.com)
+*/
+
 using System;
 using System.Text;
 using System.Diagnostics;
