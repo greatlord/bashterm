@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Authors>Magnus Olsen</Authors>
-    <Version>2.0.0</Version>
+    <Version>5.0.0</Version>
     <PackageTags>Solr http/https client library</PackageTags>
     <Description>
       This library give a bash termal to C# under linux so you can run linux command promp and commands 
       from C#. It is part of my close source project 
     </Description>
-    <Copyright>Magnus Olsen (magnus@greatlord.com) 2020 - 2021 </Copyright>
+    <Copyright>Magnus Olsen (magnus@greatlord.com) 2021 </Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <RepositoryUrl>https://github.com/greatlord/bashterm</RepositoryUrl>
     <RespositoryType>git</RespositoryType>
